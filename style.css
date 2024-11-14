@@ -67,7 +67,7 @@ nav {
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
-        filter: brightness(80%);
+        filter: brightness(65%);
     }
 
 .cover-content {
@@ -130,6 +130,14 @@ nav {
     padding-left: 1%;
     padding-top: 2%;
     padding-bottom: 2%
+}
+
+
+.imgMS {
+    width: 30vw;
+    margin: auto;
+    padding: 1%;
+    display: block;
 }
 
 .imgM {
@@ -225,6 +233,13 @@ nav {
     font-family: "Bebas Neue", cursive;
     font-size: 2.2vw;
     font-size: 2.2vw;
+    color: #463f3a;
+    text-align: center;
+}
+
+.subsubsubheader {
+    font-family: "Bebas Neue", cursive;
+    font-size: 1.6vw;
     color: #463f3a;
     text-align: center;
 }
